@@ -195,4 +195,34 @@ export const materialTealTheme = {
   splashBg: "#05505E",
 };
 
+// Create a really nice professional hacker theme
+export const hackerTheme = {
+  body: "#000000",
+  text: "#00FF41",
+  expTxtColor: "#00FF41",
+  highlight: "#00FF41",
+  dark: "#000000",
+  secondaryText: "#00FF41",
+  imageHighlight: "#00FF41",
+  compImgHighlight: "#E1E2E1",
+  jacketColor: "#E1E2E1",
+  headerColor: "#E1E2E1",
+  splashBg: "#000000",
+};
+
+// Create iron man theme
+export const ironManTheme = {
+  body: "#000000",
+  text: "#FF0000",
+  expTxtColor: "#FF0000",
+  highlight: "#FF0000",
+  dark: "#000000",
+  secondaryText: "#FF0000",
+  imageHighlight: "#FF0000",
+  compImgHighlight: "#E1E2E1",
+  jacketColor: "#E1E2E1",
+  headerColor: "#E1E2E1",
+  splashBg: "#000000",
+};
+
 export const chosenTheme = blueTheme;
