@@ -1,0 +1,121 @@
+{
+  "closed": 2,
+  "data": [
+    {
+      "id": "PR_kwDODJZMAM4-5OSa",
+      "title": "Add my new pixel",
+      "url": "https://github.com/twilio-labs/open-pixel-art/pull/6224",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2022-09-13T21:10:07Z",
+      "number": 6224,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "open-pixel-art",
+        "url": "https://github.com/twilio-labs/open-pixel-art",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/45860984?v=4",
+          "login": "twilio-labs",
+          "url": "https://github.com/twilio-labs"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOBBiY484-I6Yj",
+      "title": "Added Name to list",
+      "url": "https://github.com/firstcontributions/first-contributions/pull/53236",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65761570?u=640f39b808c75c6b86460aa907dd030bcca2f3c7&v=4",
+        "url": "https://github.com/firstcontributions-bot",
+        "login": "firstcontributions-bot"
+      },
+      "createdAt": "2022-08-31T15:12:07Z",
+      "number": 53236,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "first-contributions",
+        "url": "https://github.com/firstcontributions/first-contributions",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37713493?v=4",
+          "login": "firstcontributions",
+          "url": "https://github.com/firstcontributions"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOBBiY484-ItyM",
+      "title": "Added information",
+      "url": "https://github.com/firstcontributions/first-contributions/pull/53233",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2022-08-31T14:30:43Z",
+      "number": 53233,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "first-contributions",
+        "url": "https://github.com/firstcontributions/first-contributions",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37713493?v=4",
+          "login": "firstcontributions",
+          "url": "https://github.com/firstcontributions"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOBsWnT84-FB98",
+      "title": "Vision1224's card",
+      "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/1571",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/103281314?u=5ba5a4d2cfe06970f56ac58f7a71da8e9c0f49e4&v=4",
+        "url": "https://github.com/TenTraicion",
+        "login": "TenTraicion"
+      },
+      "createdAt": "2022-08-30T21:47:49Z",
+      "number": 1571,
+      "changedFiles": 1,
+      "additions": 26,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Contribute-To-This-Project",
+        "url": "https://github.com/Syknapse/Contribute-To-This-Project",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/29199184?u=db710e963353379d54aaac5c7741180b990cf984&v=4",
+          "login": "Syknapse",
+          "url": "https://github.com/Syknapse"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjYzODc4MDEz",
+      "title": "Add damian-valencia to Contributors list",
+      "url": "https://github.com/firstcontributions/first-contributions/pull/39834",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-06-07T20:07:13Z",
+      "number": 39834,
+      "changedFiles": 1,
+      "additions": 129,
+      "deletions": 340,
+      "baseRepository": {
+        "name": "first-contributions",
+        "url": "https://github.com/firstcontributions/first-contributions",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37713493?v=4",
+          "login": "firstcontributions",
+          "url": "https://github.com/firstcontributions"
+        }
+      }
+    }
+  ],
+  "merged": 2,
+  "open": 1,
+  "totalCount": 5
+}
