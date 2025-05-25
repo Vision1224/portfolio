@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A driven full-stack developer with a passion for developing end-to-end products that create sustainable and scalable social and technical systems to make a meaningful impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1GXaZsfQ1OVyUs2BSO-NHZ1Y7pe6Ly1aE/view?usp=sharing",
+    "https://drive.google.com/file/d/1WtYIzh8H6K-7q_UmL3z6MFjybv2VRaQO/view?usp=drive_link",
   portfolio_repository: "https://github.com/Vision1224/portfolio",
   githubProfile: "https://github.com/Vision1224",
 };
@@ -543,11 +543,22 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Analytics Engineer II",
+          company: "Performant Corp",
+          company_url: "https://performanthealthcare.com/",
+          logo_path: "performant_healthcare_logo.jpeg",
+          duration: "July 2023 - May 2025",
+          location: "El Paso, Texas (Remote)",
+          description:
+            "⚡ Successfully engineered and maintained complex data probes using Performant’s proprietary Data Processing Engine (DPE) to extract, transform, and analyze high-volume healthcare and financial datasets.⚡ Designed and implemented scalable solutions to support mission-critical workflows including data validation, fraud detection, and revenue recovery.⚡ Built reusable, modular probe templates that improved processing speed, consistency, and efficiency across multiple government contracts.⚡ Collaborated with cross-functional teams—including analytics, compliance, and business units—to translate regulatory requirements into executable, automated data workflows.⚡ Ensured system accuracy and reliability by debugging, optimizing, and applying version control to data probe configurations.⚡ Authored comprehensive technical documentation and led internal training initiatives to promote best practices in data probe development and DPE utilization.",
+          color: "#81c341",
+        },
+        {
           title: "Computer Programmer IV",
           company: "Brillient Corporation",
           company_url: "https://www.brillient.net/",
           logo_path: "Brillient_Logo_Rev2016_web.png",
-          duration: "March 2021 - Current",
+          duration: "March 2021 - July 2023",
           location: "El Paso, Texas (Remote)",
           description:
             "⚡ Proven track record of remote work, consistently achieving exceptional results through self-directed efforts.⚡ Develop, modify, and maintain complex programs to solve challenging programming problems, utilizing knowledge of system software, computer equipment, work processes,regulations, and management practices.⚡ Design and implement file and record interrelations within programs to effectively fit into the overall project design. ⚡ Play a critical role in the development of an in-house Helpdesk system, handling problem resolution through the ticketing system.⚡ Develop an automation script to import Paid In Full loans into the system, streamlining processes and improving efficiency.",
