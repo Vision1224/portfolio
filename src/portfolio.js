@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Damian Valencia Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://vision1224.github.io/portfolio",
   },
 };
 
